@@ -1,0 +1,22 @@
+{
+  "name": "buckets-heroku-skeleton",
+  "version": "0.0.2",
+  "description": "A skeleton project for Buckets.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "author": "Edolyne Long",
+  "license": "MIT",
+  "dependencies": {
+    "buckets": "edolyne/buckets.git"
+  },
+  "homepage": "http://buckets.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edolyne/skeleton.git"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
